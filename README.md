@@ -5,4 +5,4 @@
   - skim(Mac)
   - SumatraPDF(windows)
  - 適宜，ファイルをかきかえてください
- - latexmk -pvc 　"*".tex  *はファイル名で監視が始まります
+ - latexmk -pvc 　"".tex  ""はファイル名で監視が始まります
